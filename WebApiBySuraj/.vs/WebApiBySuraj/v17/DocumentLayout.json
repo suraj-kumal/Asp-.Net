@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|c:\\users\\acer\\source\\repos\\webapibysuraj\\webapibysuraj\\controllers\\laptopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|solutionrelative:webapibysuraj\\controllers\\laptopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|c:\\users\\acer\\source\\repos\\webapibysuraj\\webapibysuraj\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|solutionrelative:webapibysuraj\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|c:\\users\\acer\\source\\repos\\webapibysuraj\\webapibysuraj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|solutionrelative:webapibysuraj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|c:\\users\\acer\\source\\repos\\webapibysuraj\\webapibysuraj\\data\\laptopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|solutionrelative:webapibysuraj\\data\\laptopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|c:\\users\\acer\\source\\repos\\webapibysuraj\\webapibysuraj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|solutionrelative:webapibysuraj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Migrations\\20240525212637_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApiBySuraj\\Migrations\\20240525212637_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|c:\\users\\acer\\source\\repos\\webapibysuraj\\webapibysuraj\\webapibysuraj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0F4BA3A-9D52-4004-A26E-6FB42D3A5A21}|WebApiBySuraj\\WebApiBySuraj.csproj|solutionrelative:webapibysuraj\\webapibysuraj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240525212637_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Migrations\\20240525212637_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApiBySuraj\\Migrations\\20240525212637_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Migrations\\20240525212637_InitialCreate.cs",
+              "RelativeToolTip": "WebApiBySuraj\\Migrations\\20240525212637_InitialCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:26:37.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiBySuraj\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\appsettings.json",
+              "RelativeToolTip": "WebApiBySuraj\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T21:15:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiBySuraj\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Program.cs",
+              "RelativeToolTip": "WebApiBySuraj\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:12:14.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaptopController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Controllers\\LaptopController.cs",
+              "RelativeDocumentMoniker": "WebApiBySuraj\\Controllers\\LaptopController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Controllers\\LaptopController.cs",
+              "RelativeToolTip": "WebApiBySuraj\\Controllers\\LaptopController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAQwGoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:10:32.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LaptopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Data\\LaptopDBContext.cs",
+              "RelativeDocumentMoniker": "WebApiBySuraj\\Data\\LaptopDBContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Data\\LaptopDBContext.cs",
+              "RelativeToolTip": "WebApiBySuraj\\Data\\LaptopDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:04:02.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiBySuraj",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\WebApiBySuraj.csproj",
+              "RelativeDocumentMoniker": "WebApiBySuraj\\WebApiBySuraj.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\WebApiBySuraj.csproj",
+              "RelativeToolTip": "WebApiBySuraj\\WebApiBySuraj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T20:41:08.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "WebApiBySuraj\\Models\\Laptop.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApiBySuraj\\WebApiBySuraj\\Models\\Laptop.cs",
+              "RelativeToolTip": "WebApiBySuraj\\Models\\Laptop.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA8wBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:16:43.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

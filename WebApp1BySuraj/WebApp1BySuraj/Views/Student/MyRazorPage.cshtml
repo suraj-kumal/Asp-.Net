@@ -1,0 +1,53 @@
+﻿@{
+    var currentDateTime = DateTime.Now;
+   ViewData["Title"] = "My Razor Page";
+    int number = 33;
+    int maxMultiplier = 10;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+     <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <p>Current Date and Time: @currentDateTime.ToString("F")</p>
+    <p>Name : Suraj Kumal</p>
+    <p>Roll No : 32 </p>
+
+
+    <h3>Multiplication Table of @number</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Multiplier</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 1; i <= maxMultiplier; i++)
+            {
+                <tr>
+                    <td>@number x @i</td>
+                    <td>@(number * i)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

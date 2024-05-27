@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Render Form";
+}
+
+<h2>Render Form</h2>
+
+<form method="post" action="/StateManagement/SubmitForm">
+    <input type="hidden" name="hiddenValue" value="@ViewBag.HiddenValue" />
+    <button type="submit">Submit</button>
+</form>

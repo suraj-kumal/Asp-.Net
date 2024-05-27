@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\WebApp1BySuraj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{832AB721-A086-46BB-A9FA-4F912D9795F7}|WebApp1BySuraj\\WebApp1BySuraj.csproj|c:\\users\\acer\\source\\repos\\webapp1bysuraj\\webapp1bysuraj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832AB721-A086-46BB-A9FA-4F912D9795F7}|WebApp1BySuraj\\WebApp1BySuraj.csproj|solutionrelative:webapp1bysuraj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832AB721-A086-46BB-A9FA-4F912D9795F7}|WebApp1BySuraj\\WebApp1BySuraj.csproj|c:\\users\\acer\\source\\repos\\webapp1bysuraj\\webapp1bysuraj\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{832AB721-A086-46BB-A9FA-4F912D9795F7}|WebApp1BySuraj\\WebApp1BySuraj.csproj|solutionrelative:webapp1bysuraj\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832AB721-A086-46BB-A9FA-4F912D9795F7}|WebApp1BySuraj\\WebApp1BySuraj.csproj|c:\\users\\acer\\source\\repos\\webapp1bysuraj\\webapp1bysuraj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{832AB721-A086-46BB-A9FA-4F912D9795F7}|WebApp1BySuraj\\WebApp1BySuraj.csproj|solutionrelative:webapp1bysuraj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApp1BySuraj\\WebApp1BySuraj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp1BySuraj\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApp1BySuraj\\WebApp1BySuraj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp1BySuraj\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:26:49.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApp1BySuraj\\WebApp1BySuraj\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp1BySuraj\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApp1BySuraj\\WebApp1BySuraj\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "WebApp1BySuraj\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:19:12.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApp1BySuraj\\WebApp1BySuraj\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApp1BySuraj\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApp1BySuraj\\WebApp1BySuraj\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApp1BySuraj\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:10:32.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

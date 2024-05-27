@@ -1,0 +1,31 @@
+﻿@model WebApp1BySuraj.Models.Student
+
+<h1>Create Student Record</h1>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="StdID"></label>
+        <input asp-for="StdID" />
+        <span asp-validation-for="StdID" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Faculty"></label>
+        <input asp-for="Faculty" />
+        <span asp-validation-for="Faculty" class="text-danger"></span>
+    </div>
+    <button type="submit">Submit</button>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

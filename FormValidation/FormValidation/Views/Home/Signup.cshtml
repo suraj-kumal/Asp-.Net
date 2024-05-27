@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<h2>Welcome, @ViewBag.Name! (RollNo: @ViewBag.RollNo)</h2>
+
+<form id="signupForm">
+    <div>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" required />
+    </div>
+    <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required />
+    </div>
+    <button type="submit">Sign Up</button>
+</form>
+
+@section Scripts {
+    <text>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+            $(document).ready(function () {
+                $('#signupForm').submit(function (e) {
+                    e.preventDefault();
+                    // Perform client-side validation
+                    var email = $('#email').val();
+                    var password = $('#password').val();
+                    // Regex patterns
+                    var emailRegexPattern = "^[A-Za-z0-9._%+-]+@@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}$";
+                    var emailRegex = new RegExp(emailRegexPattern);
+                    var passwordRegex = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}$/;
+                    if (!emailRegex.test(email)) {
+                        alert('Please enter a valid email address.');
+                        return false;
+                    }
+                    if (!passwordRegex.test(password)) {
+                        alert('Password must be at least 8 characters long and contain at least one numeric digit, one uppercase and one lowercase letter.');
+                        return false;
+                    }
+                    // If validation passes, submit the form
+                    $.post('@Url.Action("SignUp", "Home")', $('#signupForm').serialize(), function (response) {
+                        // Handle response if needed
+                    });
+                });
+            });
+        </script>
+    </text>
+}

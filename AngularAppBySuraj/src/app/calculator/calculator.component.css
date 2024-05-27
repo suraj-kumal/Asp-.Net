@@ -1,0 +1,40 @@
+/* calculator.component.css */
+.wrap {
+  margin: 2rem;
+}
+#calculatorForm {
+  margin-bottom: 20px;
+}
+
+#calculatorForm label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#calculatorForm input[type="number"],
+#calculatorForm select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+#calculatorForm button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#calculatorForm button:hover {
+  background-color: #45a049;
+}
+
+#result {
+  font-size: 20px;
+  margin-top: 20px;
+}
