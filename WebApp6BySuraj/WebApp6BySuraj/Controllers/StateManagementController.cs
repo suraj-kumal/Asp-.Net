@@ -10,7 +10,7 @@ namespace WebApp6BySuraj.Controllers
         public IActionResult SetSessionData()
         {
             // Set some session data
-            HttpContext.Session.SetString("UserName", "Sura Kumal");
+            HttpContext.Session.SetString("UserName", "Suraj Kumal");
             HttpContext.Session.SetString("UserRole", "Administrator");
             HttpContext.Session.SetInt32("UserAge", 22);
 
